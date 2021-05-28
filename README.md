@@ -16,8 +16,9 @@ In order to properly run this game, you must have JRE 8 and Codename One downloa
 **Windows:** from command prompt, change directories to "A3Prj" and run this command: java -cp dist\A3Prj.jar;JavaSE.jar com.codename1.impl.javase.Simulator com.mycompany.a3.Starter
 
 # **Gameplay**
+Quick Demo:
+![gameplay](https://user-images.githubusercontent.com/63819319/119928259-11a08500-bf30-11eb-896d-aa2010e12928.gif)
 
-
-
+Demo of some functionality:
 ![gameplay2](https://user-images.githubusercontent.com/63819319/119928765-14e84080-bf31-11eb-8150-291c55e5d3ac.gif)
 
