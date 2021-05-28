@@ -11,7 +11,7 @@ In order to properly run this game, you must have JRE 8 and Codename One downloa
 
 **Eclipse:** after importing the project to eclipse, right click on "Simulator_A3Prj.launch" --> Run As --> Simulator_A3Prj
 
-**MacOS: **from terminal, change directories to "A3Prj" and run this command: java -cp dist/A3Prj.jar:JavaSE.jar com.codename1.impl.javase.Simulator com.mycompany.a3.Starter
+**MacOS:** from terminal, change directories to "A3Prj" and run this command: java -cp dist/A3Prj.jar:JavaSE.jar com.codename1.impl.javase.Simulator com.mycompany.a3.Starter
 
 **Windows:** from command prompt, change directories to "A3Prj" and run this command: java -cp dist\A3Prj.jar;JavaSE.jar com.codename1.impl.javase.Simulator com.mycompany.a3.Starter
 
