@@ -7,7 +7,7 @@ This is a mobile Java game created on Eclipse using Codename One for a class at 
 
 
 # **Run Game**
-In order to properly run this game, you must have JRE 8 and Codename One downloaded onto your computer. The game was developed for an iPad, so the skin MUST be "ipad3_os7.skin."
+In order to properly run this game, you must use JRE 8 and Codename One must be downloaded. The game was developed for an iPad aspect ration, so the skin MUST be changed to "ipad3_os7.skin" in the horizontal format for proper execution.
 
 **Eclipse:** after importing the project to eclipse, right click on "Simulator_A3Prj.launch" --> Run As --> Simulator_A3Prj
 
